@@ -83,7 +83,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-6">
-                    <p>&copy; Nhóm 9 : Nguyễn Đăng Quyền , Dương Ngọc Sáng , Nguyễn Minh Vũ , Bùi Thị Ngọc Yến</p>
+                    <p>&copy; Nguyễn Minh Vũ</p>
                 </div>
                 <div class="col-xs-12 col-sm-6 text-right">
                     <a href="https://www.nganluong.vn/vn/home.html" target="_blank"><img src="public/img/footer/payment.png" alt="" /></a>

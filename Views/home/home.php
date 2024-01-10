@@ -30,7 +30,7 @@
             cursor: pointer;
         }
         .popup-container img {
-            width: 570px;
+            width: 720px;
             height: 410px;
             align-items: center;
         }
@@ -42,7 +42,7 @@
     <!-- Popup -->
     <div class="popup-container" id="popup" onmouseleave="closePopup()">
         <div class="popup-header">
-            <h2>ĐỒ ÁN HỆ THỐNG THÔNG TIN - NHÓM 9</h2>
+            <h2>DTP Phone - Điện thoại , phụ kiện chính hãng</h2>
             <span class="popup-close" onclick="closePopup()">X</span>
         </div>
         <!-- Add your image here -->
